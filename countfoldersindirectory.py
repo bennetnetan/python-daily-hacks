@@ -3,7 +3,7 @@
 import os
 
 #define the app folder to work in
-APP_FOLDER = "G:/EHS/MS/DAILY/13-NOV-2022"
+APP_FOLDER = "E:/"
 totalFiles = 0
 totalDir = 0
 
