@@ -37,8 +37,8 @@ except:
 temp = output.decode('utf-8')
 
 # get the first value in the temp string
-a = temp.split('\n')[0]
-b = temp.split('\n')[1]
+a = input("LINK1: ")
+b = input("LINK2: ")
 
 # name the two args to video_link and audio_link in different variables
 # get the datatype of a
